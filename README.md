@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+## Skills
+ # Languages
+  - HTML/CSS
+  - JavaScrpit
+  - Java
+  - Python
+ # Technologies
+  - Node
+  - Java/Spring
+  - Express
+  - Socket.io
+  
+
 <!--
 **eet349/eet349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

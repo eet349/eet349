@@ -2,15 +2,25 @@
 
 ## Skills
  # Languages
-  - HTML/CSS
   - JavaScrpit
   - Java
   - Python
+  - SQL
+  
  # Technologies
+  - HTML/CSS
+  - React
+  - Redux
+  - Context
   - Node
-  - Java/Spring
   - Express
+  - REST
+  - GraphQL
+  - Spring Framework
   - Socket.io
+  - PostgreSQL
+  - MongoDB
+  - Git
   
 
 <!--
